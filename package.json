@@ -1,0 +1,13 @@
+{
+  "name": "acme-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@root/acme": "^3.1.0",
+    "acme": "^3.0.3",
+    "acme-http-01-webroot": "^3.0.0",
+    "jose": "^4.14.4",
+    "punycode": "^2.3.0"
+  }
+}
